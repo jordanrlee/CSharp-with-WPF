@@ -1,0 +1,16 @@
+C:\Users\jorda\Documents\School\CS3280 - C#\Homework\Assign4_JRL_WPF\Assign4_JRL_WPF\obj\Debug\Assign4_JRL_WPF.csproj.AssemblyReference.cache
+C:\Users\jorda\Documents\School\CS3280 - C#\Homework\Assign4_JRL_WPF\Assign4_JRL_WPF\obj\Debug\Assign4_JRL_WPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\jorda\Documents\School\CS3280 - C#\Homework\Assign4_JRL_WPF\Assign4_JRL_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\jorda\Documents\School\CS3280 - C#\Homework\Assign4_JRL_WPF\Assign4_JRL_WPF\obj\Debug\App.g.cs
+C:\Users\jorda\Documents\School\CS3280 - C#\Homework\Assign4_JRL_WPF\Assign4_JRL_WPF\obj\Debug\Assign4_JRL_WPF_MarkupCompile.cache
+C:\Users\jorda\Documents\School\CS3280 - C#\Homework\Assign4_JRL_WPF\Assign4_JRL_WPF\obj\Debug\Assign4_JRL_WPF_MarkupCompile.lref
+C:\Users\jorda\Documents\School\CS3280 - C#\Homework\Assign4_JRL_WPF\Assign4_JRL_WPF\bin\Debug\Assign4_JRL_WPF.exe.config
+C:\Users\jorda\Documents\School\CS3280 - C#\Homework\Assign4_JRL_WPF\Assign4_JRL_WPF\bin\Debug\Assign4_JRL_WPF.exe
+C:\Users\jorda\Documents\School\CS3280 - C#\Homework\Assign4_JRL_WPF\Assign4_JRL_WPF\bin\Debug\Assign4_JRL_WPF.pdb
+C:\Users\jorda\Documents\School\CS3280 - C#\Homework\Assign4_JRL_WPF\Assign4_JRL_WPF\obj\Debug\MainWindow.baml
+C:\Users\jorda\Documents\School\CS3280 - C#\Homework\Assign4_JRL_WPF\Assign4_JRL_WPF\obj\Debug\Assign4_JRL_WPF.g.resources
+C:\Users\jorda\Documents\School\CS3280 - C#\Homework\Assign4_JRL_WPF\Assign4_JRL_WPF\obj\Debug\Assign4_JRL_WPF.Properties.Resources.resources
+C:\Users\jorda\Documents\School\CS3280 - C#\Homework\Assign4_JRL_WPF\Assign4_JRL_WPF\obj\Debug\Assign4_JRL_WPF.csproj.GenerateResource.cache
+C:\Users\jorda\Documents\School\CS3280 - C#\Homework\Assign4_JRL_WPF\Assign4_JRL_WPF\obj\Debug\Assign4_JRL_WPF.csproj.CoreCompileInputs.cache
+C:\Users\jorda\Documents\School\CS3280 - C#\Homework\Assign4_JRL_WPF\Assign4_JRL_WPF\obj\Debug\Assign4_JRL_WPF.exe
+C:\Users\jorda\Documents\School\CS3280 - C#\Homework\Assign4_JRL_WPF\Assign4_JRL_WPF\obj\Debug\Assign4_JRL_WPF.pdb

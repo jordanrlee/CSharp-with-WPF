@@ -1,0 +1,36 @@
+﻿<Window x:Class="Assignment_5_JRL.GameWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Assignment_5_JRL"
+        mc:Ignorable="d"
+        Title="GameWindow" Height="450" Width="800">
+    <Grid Margin="320,0,0,0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="46*"/>
+            <RowDefinition Height="171*"/>
+        </Grid.RowDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Images/tmnt_GameWindow.jpg"/>
+        </Grid.Background>
+        <Label x:Name="lblQuestionGameWindow" Content=" " HorizontalAlignment="Left" Margin="-304,8,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Width="121" Height="42" FontSize="18" FontWeight="Bold" Grid.Row="1">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.284"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <TextBox x:Name="txtBoxGameWindow" HorizontalAlignment="Left" Margin="-133,11,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="41" FontSize="18" FontWeight="Bold" Text=" " Grid.Row="1" KeyDown="enterKeyPressed"/>
+        <Button x:Name="buttonQuit" Content="Quit" HorizontalAlignment="Left" Margin="-303,106,0,0" VerticalAlignment="Top" Background="#FFEC4134" Width="120" Height="54" FontSize="18" FontWeight="Bold" Click="buttonQuit_Click" Grid.Row="1"/>
+        <Button x:Name="buttonSubmit" Content="Submit" HorizontalAlignment="Left" Margin="-133,106,0,0" VerticalAlignment="Top" Width="120" Height="54" Background="#FF8CC63E" RenderTransformOrigin="0.752,0.503" FontSize="18" FontWeight="Bold" Click="buttonSubmit_Click" Grid.Row="1"/>
+        <Label x:Name="lblTime" Content="Time" HorizontalAlignment="Left" Margin="-303,27,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold"/>
+        <Label x:Name="lblRound" Content="Round" HorizontalAlignment="Left" Margin="-303,53,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold"/>
+        <Label x:Name="lblSeconds" Content=" " HorizontalAlignment="Left" Margin="-243,27,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold"/>
+        <Label x:Name="lblAnswerFeedback" Content=" " HorizontalAlignment="Left" Margin="-133,57,0,0" Grid.Row="1" VerticalAlignment="Top" Height="38" Width="120" FontSize="18" FontWeight="Bold"/>
+
+    </Grid>
+</Window>

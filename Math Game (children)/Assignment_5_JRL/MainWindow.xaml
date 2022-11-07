@@ -1,0 +1,30 @@
+﻿<Window x:Class="Assignment_5_JRL.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Assignment_5_JRL"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="318,0,0,0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="83*"/>
+            <RowDefinition Height="351*"/>
+        </Grid.RowDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="/tmnt_main.jpg"/>
+        </Grid.Background>
+        <GroupBox x:Name="gBoxGameType" Header="Select Game" Grid.Row="1" Margin="-303,42,504,188"/>
+        <GroupBox x:Name="gBoxPlayerInfo" Header="Player Information" Margin="-303,6,504,301" Grid.RowSpan="2"/>
+        <Label Content="Enter your name:" HorizontalAlignment="Left" Margin="-295,26,0,0" VerticalAlignment="Top" Width="153" Foreground="Black" FontWeight="Bold" Background="White" FontSize="18"/>
+        <Label x:Name="lblAge" Content="Enter your age:" HorizontalAlignment="Left" Margin="-295,70,0,0" VerticalAlignment="Top" Background="Transparent" FontWeight="Bold" Foreground="Black" FontSize="18" Width="153" Grid.RowSpan="2"/>
+        <TextBox x:Name="txtBoxName" HorizontalAlignment="Left" Margin="-137,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="80" Height="34"/>
+        <TextBox x:Name="txtBoxAge" HorizontalAlignment="Left" Margin="-137,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="80" Height="32" Grid.RowSpan="2"/>
+        <RadioButton x:Name="rButtonAdd" Content="Addition" HorizontalAlignment="Left" Margin="-275,61,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <RadioButton x:Name="rButtonSub" Content="Subtraction" HorizontalAlignment="Left" Margin="-275,81,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <RadioButton x:Name="rButtonMul" Content="Multiplication" HorizontalAlignment="Left" Margin="-275,101,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <RadioButton x:Name="rButtonDiv" Content="Division" HorizontalAlignment="Left" Margin="-275,121,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <Button x:Name="buttonBegin" Content="Start" HorizontalAlignment="Left" Margin="-303,275,0,0" Grid.Row="1" VerticalAlignment="Top" Width="293" Height="51" Background="#FF57C84E" FontSize="18" FontWeight="Bold" Click="buttonStart_Click"/>
+        <TextBlock x:Name="tBoxError1" HorizontalAlignment="Left" Margin="-295,185,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Error Box:" VerticalAlignment="Top" Background="#FFE24848" Width="293" Height="85" FontSize="18" FontWeight="Bold" Visibility="Hidden"/>
+    </Grid>
+</Window>

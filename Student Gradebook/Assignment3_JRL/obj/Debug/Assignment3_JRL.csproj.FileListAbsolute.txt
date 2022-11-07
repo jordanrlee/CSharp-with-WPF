@@ -1,0 +1,11 @@
+C:\Users\jorda\Documents\School\CS3280 - C#\Homework\Assignment3_JRL\Assignment3_JRL\obj\Debug\Assignment3_JRL.csproj.AssemblyReference.cache
+C:\Users\jorda\Documents\School\CS3280 - C#\Homework\Assignment3_JRL\Assignment3_JRL\obj\Debug\Assignment3_JRL.csproj.SuggestedBindingRedirects.cache
+C:\Users\jorda\Documents\School\CS3280 - C#\Homework\Assignment3_JRL\Assignment3_JRL\obj\Debug\Assignment3_JRL.Form1.resources
+C:\Users\jorda\Documents\School\CS3280 - C#\Homework\Assignment3_JRL\Assignment3_JRL\obj\Debug\Assignment3_JRL.Properties.Resources.resources
+C:\Users\jorda\Documents\School\CS3280 - C#\Homework\Assignment3_JRL\Assignment3_JRL\obj\Debug\Assignment3_JRL.csproj.GenerateResource.cache
+C:\Users\jorda\Documents\School\CS3280 - C#\Homework\Assignment3_JRL\Assignment3_JRL\obj\Debug\Assignment3_JRL.csproj.CoreCompileInputs.cache
+C:\Users\jorda\Documents\School\CS3280 - C#\Homework\Assignment3_JRL\Assignment3_JRL\bin\Debug\Assignment3_JRL.exe.config
+C:\Users\jorda\Documents\School\CS3280 - C#\Homework\Assignment3_JRL\Assignment3_JRL\bin\Debug\Assignment3_JRL.exe
+C:\Users\jorda\Documents\School\CS3280 - C#\Homework\Assignment3_JRL\Assignment3_JRL\bin\Debug\Assignment3_JRL.pdb
+C:\Users\jorda\Documents\School\CS3280 - C#\Homework\Assignment3_JRL\Assignment3_JRL\obj\Debug\Assignment3_JRL.exe
+C:\Users\jorda\Documents\School\CS3280 - C#\Homework\Assignment3_JRL\Assignment3_JRL\obj\Debug\Assignment3_JRL.pdb
