@@ -7,5 +7,5 @@ This is a preview of the "Airline Seat Manager ✈️" This was actually really 
 This is a preview of the "TicTacToe game" It was a good time to make, but I discovered I shouldn't play TicTacToe against myself.
 ![TicTacToe Game](tttprev.png)
 
-This is a preview of the "Math game (TMNT theme) 🐢". This was a lot of fun to make and I even added some audio files that would play on user actions. Cowabunga!
+This is a preview of the "Math game (TMNT theme) 🐢". This was a lot of fun to make and don't forget. Cowabunga!
 ![Math Game (TMNT)](mathprev.png)
